@@ -112,16 +112,6 @@ and the RLalgs folder into a package. Rename it as [Assignment1-FirstName-
 LastName-UNI.zip] (e.g. Assignment1-Minhui-Li-ml4026.zip) and upload it on
 Courseworks.
 
-## 5 Bug Report
-
-Minhui Li ml4026@columbia.edu
-
-## 6 Acknowledgement
-
-This assignment referenced some parts of the Assignment 1 in the year 2017,
-designed by Prof. Chong Li, Chen-Yu Yen, Lingyu Zhang, Xing Yuan and Qing
-Lan.
-
 ## References
 
 [1] OpenAI Gym. Frozenlake-v0 source. https://github.com/openai/gym/
