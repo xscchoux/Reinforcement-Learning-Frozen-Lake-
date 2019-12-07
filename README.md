@@ -1,10 +1,4 @@
-## Project Assignment -- ELEN 6885 Reinforcement Learning
-Implemented algorithms with OpenAI gym 
-# Assignment 1 Part 2
-
 ## ELEN6885 Reinforcement Learning
-
-## October 2018
 
 ## 1 Introduction
 
